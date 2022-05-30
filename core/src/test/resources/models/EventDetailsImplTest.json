@@ -1,0 +1,10 @@
+{
+  "jcr:primaryType":"nt:unstructured",
+  "sling:resourceType": "myproject/components/page",
+  "eventdetails": {
+    "jcr:primaryType": "nt:unstructured",
+    "sling:resourceType": "myproject/components/eventdetails",
+    "name": "Puneeth",
+    "date": "2022-05-23T00:00:00.000+10:00"
+  }
+}
